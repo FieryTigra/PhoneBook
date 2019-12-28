@@ -3,8 +3,3 @@ Chris Johnson    (321) 231-7876  452 Freeman Drive, Algonac, MI
 Dave Williams    (231) 502-1236  285 Huron St, Port Austin, MI
 John Smith    (248) 123-4567  1234 Sand Hill Dr, Royal Oak, MI
 Cynthia Smith    (824) 128-8758  875 Main St, Ann Arbor, MI
-NAME  PHONENUMBER    ADDRESS
-Chris Johnson    (321) 231-7876  452 Freeman Drive, Algonac, MI
-Dave Williams    (231) 502-1236  285 Huron St, Port Austin, MI
-John Smith    (248) 123-4567  1234 Sand Hill Dr, Royal Oak, MI
-Cynthia Smith    (824) 128-8758  875 Main St, Ann Arbor, MI

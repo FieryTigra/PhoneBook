@@ -13,7 +13,7 @@ namespace PhoneBookTestApp
             try
             {
                 SQLiteCommand command =
-                     new SQLiteCommand("DROP TABLE IF EXISTS PHONEBOOK", dbConnection);
+                    new SQLiteCommand("DROP TABLE IF EXISTS PHONEBOOK", dbConnection);
                 command.ExecuteNonQuery();
 
                 command =
